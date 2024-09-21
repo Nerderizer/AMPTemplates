@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Vein Server Update",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2131402",
+        "UpdateSourceArgs": "1857950",
+        "UpdateSourceVersion": "public",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Linux",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

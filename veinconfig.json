@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "The name displayed in the server title.",
+        "Keywords": "server,name",
+        "FieldName": "servername",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "servername",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "MyVeinServer",
+        "Placeholder": "MyVeinServer",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Max Players",
+        "Category": "Server Settings",
+        "Description": "The maximum number of players",
+        "Keywords": "max,players",
+        "FieldName": "maxplayers",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "maxplayers",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "6",
+        "Placeholder": "6",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
