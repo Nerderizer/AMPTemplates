@@ -11,14 +11,5 @@
         "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
         "OneShot": true
-    },
-    {
-        "UpdateStageName": "Vein Server Start",
-        "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "StartApplication",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": true
     }
 ]
