@@ -3,6 +3,7 @@ Meta.Description=Vein Dedicated Server
 Meta.Arch=x86_64
 Meta.Author=UserID10T - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/1857950/VEIN/
+Meta.AppConfigId=2cd59de5-24a4-43f8-a71a-b29d08d1fd5e
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
