@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "Vein/Saved/Config/WindowsServer/GameUserSettings.ini",
+        "ConfigFile": "Vein/Saved/Config/LinuxServer/GameUserSettings.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }
