@@ -1,6 +1,6 @@
 [
     {
-        "UpdateStageName": "Vein Server Update",
+        "UpdateStageName": "Vein Server Download",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2131400",
@@ -10,6 +10,15 @@
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
-        "OneShot": false
+        "OneShot": true
+    },
+    {
+        "UpdateStageName": "Vein Server Start",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "StartApplication",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": true
     }
 ]
