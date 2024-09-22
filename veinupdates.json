@@ -5,7 +5,8 @@
         "UpdateSource":"SteamCMD",
         "UpdateSourceData":"2131400",
         "UpdateSourceArgs":"2082470",
-        "UpdateSourceVersion":"{{ServerBranch}}"
+        "UpdateSourceVersion":"{{ServerBranch}}",
+        "OneShot":true
     },
     {
         "UpdateStageName":"Create Config Directory",
